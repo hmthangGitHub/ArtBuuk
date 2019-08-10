@@ -1,0 +1,92 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "swipe",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Front": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                -841,
+                0
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -219,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Text/Title": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Text/Title copy": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "Text/SubTit": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Text/Decs": {
+        "props": {
+          "opacity": []
+        }
+      },
+      "Categories": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.5,
+              "value": false
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Text": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

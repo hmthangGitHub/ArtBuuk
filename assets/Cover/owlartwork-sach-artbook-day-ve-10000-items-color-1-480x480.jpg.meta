@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "49ca9c04-70e4-4f8b-8283-053ae5130445",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "owlartwork-sach-artbook-day-ve-10000-items-color-1-480x480": {
+      "ver": "1.0.4",
+      "uuid": "709218a3-0179-43c6-977e-a34b7ff4d28b",
+      "rawTextureUuid": "49ca9c04-70e4-4f8b-8283-053ae5130445",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 480,
+      "height": 480,
+      "rawWidth": 480,
+      "rawHeight": 480,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
